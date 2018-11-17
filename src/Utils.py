@@ -58,3 +58,8 @@ class Utils:
         return [byte((varInt >> 24) & 0xff), byte((varInt >> 16) & 0xff),
                 byte((varInt >> 8) & 0xff), byte(varInt & 0xff)]
 
+    @classmethod
+    def domainTobyte(cls, domain):
+        re = b''
+        for substr in domain.split('.'):
+            re += (len(substr) + str.encode(substr))
