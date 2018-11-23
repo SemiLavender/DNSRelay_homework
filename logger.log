@@ -1,0 +1,242 @@
+INFO:root:IP : 127.0.0.1 	 Port: 54887 \s requestMessage: b'\xe3>\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 54887 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:22762
+INFO:root:request info:
+ requestID: 1 
+ request time: 2018-11-23 10:27:09.361790 
+ msg: b'\xe3>\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 49469 \s requestMessage: b'\xf7\xc4\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 49469 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:247196
+INFO:root:request info:
+ requestID: 2 
+ request time: 2018-11-23 10:27:09.362312 
+ msg: b'\xf7\xc4\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 58130 \s requestMessage: b'\xf72\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-p01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 58130 
+ Request website: init-p01st.push.apple.com
+INFO:root:报文ID:24750
+INFO:root:request info:
+ requestID: 3 
+ request time: 2018-11-23 10:27:11.924409 
+ msg: b'\xf72\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-p01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 55115 \s requestMessage: b'[\x9c\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-p01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 55115 
+ Request website: init-p01st.push.apple.com
+INFO:root:报文ID:91156
+INFO:root:request info:
+ requestID: 4 
+ request time: 2018-11-23 10:27:11.924900 
+ msg: b'[\x9c\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-p01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 54887 \s requestMessage: b'\xe3>\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 54887 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:22762
+INFO:root:request info:
+ requestID: 5 
+ request time: 2018-11-23 10:27:17.365187 
+ msg: b'\xe3>\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:超时未应答，返回报文Non-existent domain
+INFO:root:IP : 127.0.0.1 	 Port: 60831 \s requestMessage: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 60831 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:3349
+INFO:root:request info:
+ requestID: 1 
+ request time: 2018-11-23 10:36:09.012842 
+ msg: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 64309 \s requestMessage: b'A\x1e\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 64309 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:6530
+INFO:root:request info:
+ requestID: 2 
+ request time: 2018-11-23 10:36:09.013450 
+ msg: b'A\x1e\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 60831 \s requestMessage: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 60831 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:3349
+INFO:root:request info:
+ requestID: 3 
+ request time: 2018-11-23 10:36:11.012614 
+ msg: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 64309 \s requestMessage: b'A\x1e\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 64309 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:6530
+INFO:root:request info:
+ requestID: 4 
+ request time: 2018-11-23 10:36:11.013219 
+ msg: b'A\x1e\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 60831 \s requestMessage: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 60831 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:3349
+INFO:root:request info:
+ requestID: 5 
+ request time: 2018-11-23 10:36:15.015668 
+ msg: b'!1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:超时未应答，返回报文Non-existent domain
+INFO:root:IP : 127.0.0.1 	 Port: 61771 \s requestMessage: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 61771 
+ Request website: baidu.com
+INFO:root:报文ID:48133
+INFO:root:request info:
+ requestID: 1 
+ request time: 2018-11-23 10:50:15.985837 
+ msg: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 61771 \s requestMessage: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 61771 
+ Request website: baidu.com
+INFO:root:报文ID:48133
+INFO:root:request info:
+ requestID: 2 
+ request time: 2018-11-23 10:50:20.992559 
+ msg: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 61771 \s requestMessage: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 61771 
+ Request website: baidu.com
+INFO:root:报文ID:48133
+INFO:root:request info:
+ requestID: 3 
+ request time: 2018-11-23 10:50:25.993123 
+ msg: b'0\x85\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05baidu\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 51294 \s requestMessage: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 51294 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:15077
+INFO:root:request info:
+ requestID: 4 
+ request time: 2018-11-23 10:50:41.251401 
+ msg: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 56039 \s requestMessage: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 56039 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:7588
+INFO:root:request info:
+ requestID: 5 
+ request time: 2018-11-23 10:50:41.252044 
+ msg: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 51294 \s requestMessage: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 51294 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:15077
+INFO:root:request info:
+ requestID: 6 
+ request time: 2018-11-23 10:50:42.251606 
+ msg: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 56039 \s requestMessage: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 56039 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:7588
+INFO:root:request info:
+ requestID: 7 
+ request time: 2018-11-23 10:50:42.252123 
+ msg: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 51294 \s requestMessage: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 51294 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:15077
+INFO:root:request info:
+ requestID: 8 
+ request time: 2018-11-23 10:50:44.251880 
+ msg: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 56039 \s requestMessage: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 56039 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:7588
+INFO:root:request info:
+ requestID: 9 
+ request time: 2018-11-23 10:50:44.252372 
+ msg: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 51294 \s requestMessage: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 51294 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:15077
+INFO:root:request info:
+ requestID: 10 
+ request time: 2018-11-23 10:50:48.254073 
+ msg: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 56039 \s requestMessage: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 56039 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:7588
+INFO:root:request info:
+ requestID: 11 
+ request time: 2018-11-23 10:50:48.254633 
+ msg: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 54475 \s requestMessage: b'\x99\xa1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08calendar\x06google\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 54475 
+ Request website: calendar.google.com
+INFO:root:报文ID:153161
+INFO:root:request info:
+ requestID: 12 
+ request time: 2018-11-23 10:50:53.304757 
+ msg: b'\x99\xa1\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08calendar\x06google\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 61478 \s requestMessage: b'\xab\xf0\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08calendar\x06google\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 61478 
+ Request website: calendar.google.com
+INFO:root:报文ID:171240
+INFO:root:request info:
+ requestID: 13 
+ request time: 2018-11-23 10:50:53.305296 
+ msg: b'\xab\xf0\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08calendar\x06google\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 51294 \s requestMessage: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 51294 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:15077
+INFO:root:request info:
+ requestID: 14 
+ request time: 2018-11-23 10:50:56.256674 
+ msg: b'\x96M\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 56039 \s requestMessage: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 56039 
+ Request website: time-macos.apple.com
+INFO:root:报文ID:7588
+INFO:root:request info:
+ requestID: 15 
+ request time: 2018-11-23 10:50:56.257719 
+ msg: b'KX\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ntime-macos\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 62706 \s requestMessage: b'T\xfe\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x08clients4\x06google\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 62706 
+ Request website: clients4.google.com
+INFO:root:Answer IP: 7 
+INFO:root:IP : 127.0.0.1 	 Port: 59960 \s requestMessage: b'\x88:\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 59960 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:13658
+INFO:root:request info:
+ requestID: 1 
+ request time: 2018-11-23 10:55:57.655406 
+ msg: b'\x88:\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 59314 \s requestMessage: b'\xb7\xcb\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 59314 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:183203
+INFO:root:request info:
+ requestID: 2 
+ request time: 2018-11-23 10:55:57.655934 
+ msg: b'\xb7\xcb\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 59960 \s requestMessage: b'\x88:\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 59960 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:13658
+INFO:root:request info:
+ requestID: 3 
+ request time: 2018-11-23 10:56:05.656951 
+ msg: b'\x88:\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x1c\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 59314 \s requestMessage: b'\xb7\xcb\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 59314 
+ Request website: init-s01st.push.apple.com
+INFO:root:报文ID:183203
+INFO:root:request info:
+ requestID: 4 
+ request time: 2018-11-23 10:56:05.657479 
+ msg: b'\xb7\xcb\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\ninit-s01st\x04push\x05apple\x03com\x00\x00\x01\x00\x01'
+INFO:root:IP : 127.0.0.1 	 Port: 50830 \s requestMessage: b'^\x10\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x032qq\x02cn\x00\x00\x01\x00\x01'
+INFO:root:clientIP and clientPort: 127.0.0.1 and 50830 
+ Request website: 2qq.cn
+INFO:root:Answer IP: 0 
